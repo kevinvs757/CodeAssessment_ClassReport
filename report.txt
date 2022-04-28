@@ -1,0 +1,16 @@
+--------------------- ClassA ---------------------
+Total Number of Students: 10
+Number of Students for Calculating Class Average: 9.00
+Class Average: 79.44
+Students Missing Grades:
+            Edith Adkins
+--------------------- ClassB ---------------------
+Total Number of Students: 10
+Number of Students for Calculating Class Average: 10.00
+Class Average: 80.65
+--------------------- ClassC ---------------------
+Total Number of Students: 10
+Number of Students for Calculating Class Average: 10.00
+Class Average: 80.10
+=================================================
+The highest average was in ClassB with an average of 80.65
